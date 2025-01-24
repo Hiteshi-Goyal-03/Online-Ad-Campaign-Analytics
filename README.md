@@ -1,7 +1,7 @@
 # Online-Ad-Campaign-Analytics
 This project dives into **marketing analytics metrics,** analyzing the effectiveness of an online advertising campaign **using R.** It leverages advanced analytics and insights to optimize ad performance and drive decision-making. Includes insights on ROI, consumer response, impressions, and conversion rates, visualized for actionable outcomes.
 
-# Description of CSV file data set
+# Description of Dataset
 Each row in the CSV file data set (rocketfuel_data.csv) represents a uniquely identified user in the ad campaign. For each user, the following six columns are provided.
 
 **_user id:_** Unique identifier of the user
