@@ -10,8 +10,8 @@ Each row in the CSV file data set (rocketfuel_data.csv) represents a uniquely id
 
 **_converted:_** Whether the user converted. 1 if the user bought the handbag during the campaign, 0 if not.
 
-**_tot_impr:_** The total number of ad impressions the user encountered. For users in the control group this counts the number of times they encountered the PSA.For exposed users it counts the number of times they were shown the ad.
+**_tot_impr:_** The total number of ad impressions the user encountered. For users in the control group, this counts the number of times they encountered the PSA. For exposed users, it counts the number of times they were shown the ad.
 
-**_mode_impr_day:_** Shows the day of the week on which the user encountered the most number of impressions. 1 means Monday, 7 means Sunday. For example if a given user encountered 2 impressions on Mondays, 3 on Tuesdays, 7 on Wednesdays, 0 on Thursdays and, Fridays, 9 on Saturdays and 2 on Sundays, this column takes the value of 6 (Saturday).
+**_mode_impr_day:_** Shows the day of the week on which the user encountered the most number of impressions. 1 means Monday, 7 means Sunday. For example, if a given user encountered 2 impressions on Mondays, 3 on Tuesdays, 7 on Wednesdays, 0 on Thursdays and, Fridays, 9 on Saturdays and 2 on Sundays, this column takes the value of 6 (Saturday).
 
 **_mode_impr_hour:_** Shows the hour of the day (0-23) in which the user encountered the most number of impressions.
